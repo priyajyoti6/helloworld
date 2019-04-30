@@ -48,7 +48,7 @@
 		<repository>
 			<id>priya</id>
 			<name>priya</name>
-			<url>http://localhost:8081/nexus/content/repositories/priya/</url>
+			<url>http://localhost:8081/nexus/content/repositories/priya</url>
 		</repository>
 	</distributionManagement>
 	
